@@ -33,4 +33,4 @@ test_script:
   - xmr-stak.exe --help --noUAC
 
 artifacts:
-  - path: c:\xmr-stak\build\bin
+  - path: build\bin
